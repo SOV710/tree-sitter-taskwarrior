@@ -27,14 +27,14 @@ This grammar targets its configuration format (`taskrc`) and related files.
 
 This project is intentionally scoped for long-term maintenance. Planned work includes:
 
-- [] Improve grammar precision and semantic modeling of Taskwarrior configuration keys
-- [] Enhance comma-separated list parsing and highlighting (e.g. report fields)
-- [] Expand and stabilize syntax highlighting queries
-- [] Add comprehensive grammar and highlight tests
-- [] Submit the project to the official Taskwarrior tools list (taskwarrior.org/tools)
-- [] Submit the Tree-sitter grammar to `nvim-treesitter` for Neovim integration
-- [] Submit the Tree-sitter grammar to `emacs-tree-sitter` for Emacs integration
-- [] Publish a VS Code language extension supporting Taskwarrior configuration files
+- [ ] Improve grammar precision and semantic modeling of Taskwarrior configuration keys
+- [ ] Enhance comma-separated list parsing and highlighting (e.g. report fields)
+- [ ] Expand and stabilize syntax highlighting queries
+- [ ] Add comprehensive grammar and highlight tests
+- [ ] Submit the project to the official Taskwarrior tools list (taskwarrior.org/tools)
+- [ ] Submit the Tree-sitter grammar to `nvim-treesitter` for Neovim integration
+- [ ] Submit the Tree-sitter grammar to `emacs-tree-sitter` for Emacs integration
+- [ ] Publish a VS Code language extension supporting Taskwarrior configuration files
 
 ## Installation
 
