@@ -34,6 +34,9 @@
 ; Comma-separated list: highlight each item and delimiters
 ; -------------------------
 (comma_list
-  (list_item) @field)
+  (list_item (bare_item) @field))
 
+(comma_list
+  (list_item (quoted_string) @string))
+  
 "," @punctuation.delimiter
