@@ -19,7 +19,7 @@
 (assignment
   (key) @property
   "=" @operator
-  (value) @value)
+  (value) @string)
 
 ; -------------------------
 ; Values: quoted strings / atoms
