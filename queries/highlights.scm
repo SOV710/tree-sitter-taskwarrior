@@ -18,25 +18,6 @@
 ; -------------------------
 (assignment
   (key) @property
-  "=" @operator
-  (value) @string)
+  "=" @operator)
 
-; -------------------------
-; Values: quoted strings / atoms
-; -------------------------
-(quoted_string) @string
-
-; bare atoms are “unquoted tokens” (paths, flags, words, etc.)
-(bare_atom) @constant
-(bare_item) @field
-
-; -------------------------
-; Comma-separated list: highlight each item and delimiters
-; -------------------------
-(comma_list
-  (list_item (bare_item) @field))
-
-(comma_list
-  (list_item (quoted_string) @string))
-  
-"," @punctuation.delimiter
+(raw_value) @string
