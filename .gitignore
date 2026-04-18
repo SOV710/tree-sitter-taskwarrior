@@ -48,3 +48,9 @@ zig-out/
 *.tar.gz
 *.tgz
 *.zip
+
+# AI
+/.codex
+/.claude/
+AGENTS.md
+CLAUDE.md
