@@ -27,7 +27,7 @@ This grammar targets its configuration format (`taskrc`) and related files.
 
 This project is intentionally scoped for long-term maintenance. Planned work includes:
 
-- [ ] Improve grammar precision and semantic modeling of Taskwarrior configuration keys
+- [x] Improve grammar precision and semantic modeling of Taskwarrior configuration keys
 - [ ] Enhance comma-separated list parsing and highlighting (e.g. report fields)
 - [ ] Expand and stabilize syntax highlighting queries
 - [ ] Add comprehensive grammar and highlight tests
