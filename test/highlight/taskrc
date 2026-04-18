@@ -1,14 +1,24 @@
 # [Created by task 3.4.1 11/23/2025 00:16:17]
+# <- comment
 data.location=/home/sov710/task/taskrc
+# <- property
+#              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ string.special
 news.version=3.4.1
+# <- property
+#             ^^^^^ number
 
 # To use the default location of the XDG directories,
 # move this configuration file from ~/.taskrc to ~/.config/task/taskrc and update location config as follows:
 
 data.location=~/.local/share/task
+# <- property
+#              ^^^^^^^^^^^^^^^^^^^ string.special
 hooks.location=~/.config/task/hooks
+# <- property
+#               ^^^^^^^^^^^^^^^^^^^ string.special
 
 # Color theme (uncomment one to use)
+# <- comment
 #include light-16.theme
 #include light-256.theme
 #include bubblegum-256.theme
@@ -25,7 +35,18 @@ include dark-256.theme
 #include solarized-light-256.theme
 #include no-color.theme
 
+include dark-256.theme
+# <- keyword
+#        ^^^^^^^^^^^^^^ string.special
 report.list.columns=id,start.age,entry.age,depends.indicator,priority,project,tags,recur.indicator,scheduled.countdown,due,until.remaining,description.count,urgency
+# <- property
+#                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ string
 report.list.filter=status:pending -WAITING
+# <- property
+#                   ^^^^^^^^^^^^^^^^^^^^^^^ string
 report.list.labels=ID,Active,Age,D,P,Project,Tags,R,Sch,Due,Until,Description,Urg
+# <- property
+#                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ string
 report.list.sort=start-,due+,project+,urgency-
+# <- property
+#                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^ string
