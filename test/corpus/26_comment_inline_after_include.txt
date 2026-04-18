@@ -1,0 +1,12 @@
+==================
+Inline comment after include
+==================
+
+include dark-16.theme # theme selection
+
+---
+
+(source_file
+  (include_statement
+    target: (include_target))
+  (comment))

@@ -1,0 +1,13 @@
+==================
+Holiday range start
+==================
+
+holiday.sysadmin.start=20100730
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

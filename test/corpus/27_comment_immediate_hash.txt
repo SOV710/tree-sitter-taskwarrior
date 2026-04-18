@@ -1,0 +1,14 @@
+==================
+Hash immediately starts comment
+==================
+
+foo=a#b
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value)))
+  (comment))

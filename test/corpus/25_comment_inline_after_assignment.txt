@@ -1,0 +1,14 @@
+==================
+Inline comment after assignment
+==================
+
+color=off # disable color
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value)))
+  (comment))

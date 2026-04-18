@@ -1,0 +1,13 @@
+==================
+Current context assignment
+==================
+
+context=home
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

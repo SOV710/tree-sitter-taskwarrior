@@ -1,0 +1,13 @@
+==================
+Value keeps report columns list
+==================
+
+report.list.columns=id,start.age,entry.age,depends.indicator,priority,project,tags
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

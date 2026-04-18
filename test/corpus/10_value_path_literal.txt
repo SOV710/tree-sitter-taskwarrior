@@ -1,0 +1,13 @@
+==================
+Value keeps path punctuation
+==================
+
+data.location=~/.local/share/task
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

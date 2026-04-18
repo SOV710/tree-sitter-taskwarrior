@@ -1,0 +1,13 @@
+==================
+UDA type definition
+==================
+
+uda.estimate.type=string
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

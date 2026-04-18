@@ -1,0 +1,13 @@
+==================
+Context rc override
+==================
+
+context.home.rc.default.command=home_report
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

@@ -1,0 +1,11 @@
+==================
+Include absolute path
+==================
+
+include /usr/share/task/dark-16.theme
+
+---
+
+(source_file
+  (include_statement
+    target: (include_target)))

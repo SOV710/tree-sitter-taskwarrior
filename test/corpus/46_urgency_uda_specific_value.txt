@@ -1,0 +1,13 @@
+==================
+Urgency UDA specific coefficient
+==================
+
+urgency.uda.priority.H.coefficient=6.0
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

@@ -1,0 +1,13 @@
+==================
+Missing equals is invalid
+==================
+
+data.location ~/.task
+
+---
+
+(source_file
+  (ERROR
+    (key)
+    (UNEXPECTED '~')
+    (key)))

@@ -1,0 +1,13 @@
+==================
+Value keeps embedded whitespace
+==================
+
+foo=one two three
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

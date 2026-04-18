@@ -1,0 +1,13 @@
+==================
+UDA allowed values list
+==================
+
+uda.priority.values=H,M,L,
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

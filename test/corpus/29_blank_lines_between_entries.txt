@@ -1,0 +1,20 @@
+==================
+Blank lines between entries
+==================
+
+# header
+
+include dark-16.theme
+
+color=off
+
+---
+
+(source_file
+  (comment)
+  (include_statement
+    target: (include_target))
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

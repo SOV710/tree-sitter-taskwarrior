@@ -1,0 +1,13 @@
+==================
+Color UDA specific value
+==================
+
+color.uda.priority.H=color255
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

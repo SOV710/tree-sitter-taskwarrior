@@ -1,0 +1,13 @@
+==================
+Holiday name definition
+==================
+
+holiday.towel.name=Day of the towel
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

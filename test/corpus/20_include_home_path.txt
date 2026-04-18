@@ -1,0 +1,11 @@
+==================
+Include home path
+==================
+
+include ~/.config/task/dark-256.theme
+
+---
+
+(source_file
+  (include_statement
+    target: (include_target)))

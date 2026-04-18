@@ -1,0 +1,13 @@
+==================
+Key with leading underscore
+==================
+
+_forcecolor=1
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

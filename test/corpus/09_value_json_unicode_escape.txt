@@ -1,0 +1,13 @@
+==================
+Value supports JSON unicode escape
+==================
+
+default.project=\u5BB6\u5EAD
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

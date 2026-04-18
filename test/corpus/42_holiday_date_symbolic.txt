@@ -1,0 +1,13 @@
+==================
+Holiday symbolic date
+==================
+
+holiday.eastersunday.date=easter
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

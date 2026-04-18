@@ -1,0 +1,13 @@
+==================
+Holiday range end
+==================
+
+holiday.sysadmin.end=20100805
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

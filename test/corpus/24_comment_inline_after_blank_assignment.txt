@@ -1,0 +1,12 @@
+==================
+Inline comment after blank assignment
+==================
+
+verbose= # blank override
+
+---
+
+(source_file
+  (assignment
+    key: (key))
+  (comment))

@@ -1,0 +1,13 @@
+==================
+Quotes are literal value content
+==================
+
+default.project="Three Word Project"
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

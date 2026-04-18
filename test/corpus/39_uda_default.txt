@@ -1,0 +1,13 @@
+==================
+UDA default value
+==================
+
+uda.priority.default=M
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

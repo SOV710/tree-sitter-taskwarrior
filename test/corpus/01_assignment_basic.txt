@@ -1,0 +1,13 @@
+==================
+Basic assignment
+==================
+
+color=off
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

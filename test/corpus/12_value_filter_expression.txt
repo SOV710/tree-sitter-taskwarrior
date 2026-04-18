@@ -1,0 +1,13 @@
+==================
+Value keeps filter expression punctuation
+==================
+
+report.recurring.filter=(status:pending -WAITING +CHILD) or (status:recurring -WAITING +PARENT)
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

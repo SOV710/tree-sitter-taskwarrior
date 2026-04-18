@@ -1,0 +1,13 @@
+==================
+Whitespace around assignment tokens
+==================
+
+  data.location   =   ~/.task
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

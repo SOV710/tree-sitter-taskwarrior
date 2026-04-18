@@ -1,0 +1,13 @@
+==================
+UDA label definition
+==================
+
+uda.estimate.label=Size Estimate
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

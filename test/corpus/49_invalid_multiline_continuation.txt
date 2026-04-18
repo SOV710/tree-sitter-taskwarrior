@@ -1,0 +1,16 @@
+==================
+Multiline continuation is invalid
+==================
+
+default.command=project:foo
+ list
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value)))
+  (ERROR
+    (key)))

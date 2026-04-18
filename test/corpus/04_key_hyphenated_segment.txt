@@ -1,0 +1,13 @@
+==================
+Key with hyphenated segment
+==================
+
+purge.on-sync=1
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

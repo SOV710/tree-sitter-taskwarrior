@@ -1,0 +1,13 @@
+==================
+Holiday literal date
+==================
+
+holiday.towel.date=20100525
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

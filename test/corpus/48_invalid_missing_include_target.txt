@@ -1,0 +1,10 @@
+==================
+Missing include target is invalid
+==================
+
+include
+
+---
+
+(source_file
+  (ERROR))

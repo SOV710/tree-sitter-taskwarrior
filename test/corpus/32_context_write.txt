@@ -1,0 +1,13 @@
+==================
+Context write modifications
+==================
+
+context.home.write=project:Home
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

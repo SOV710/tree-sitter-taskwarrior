@@ -1,0 +1,13 @@
+==================
+Value keeps sort expression punctuation
+==================
+
+report.minimal.sort=project+/,description+
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

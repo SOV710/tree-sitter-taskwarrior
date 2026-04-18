@@ -1,0 +1,13 @@
+==================
+Report dateformat assignment
+==================
+
+report.long.dateformat=Y-M-D
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

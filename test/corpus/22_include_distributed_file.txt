@@ -1,0 +1,11 @@
+==================
+Include distributed file name
+==================
+
+include holidays.en-US.rc
+
+---
+
+(source_file
+  (include_statement
+    target: (include_target)))

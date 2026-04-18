@@ -1,0 +1,10 @@
+==================
+Commented include stays comment
+==================
+
+#include dark-16.theme
+
+---
+
+(source_file
+  (comment))

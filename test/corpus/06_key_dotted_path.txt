@@ -1,0 +1,13 @@
+==================
+Dotted key path
+==================
+
+hooks.location=~/.config/task/hooks
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

@@ -1,0 +1,11 @@
+==================
+Whitespace around include target
+==================
+
+  include   dark-16.theme
+
+---
+
+(source_file
+  (include_statement
+    target: (include_target)))

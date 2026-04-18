@@ -1,0 +1,13 @@
+==================
+Value supports UTF8 text
+==================
+
+default.project=家庭
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

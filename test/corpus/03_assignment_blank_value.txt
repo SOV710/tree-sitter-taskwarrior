@@ -1,0 +1,11 @@
+==================
+Blank assignment value
+==================
+
+verbose=
+
+---
+
+(source_file
+  (assignment
+    key: (key)))

@@ -1,0 +1,13 @@
+==================
+Value allows trailing comma blank member
+==================
+
+uda.estimate.values=huge,large,medium,small,trivial,
+
+---
+
+(source_file
+  (assignment
+    key: (key)
+    value: (value
+      (raw_value))))

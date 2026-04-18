@@ -1,0 +1,11 @@
+==================
+Basic include statement
+==================
+
+include other.rc
+
+---
+
+(source_file
+  (include_statement
+    target: (include_target)))

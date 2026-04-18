@@ -1,0 +1,11 @@
+==================
+Include environment path
+==================
+
+include $TASK_THEME_DIR/dark-256.theme
+
+---
+
+(source_file
+  (include_statement
+    target: (include_target)))
